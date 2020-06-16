@@ -1,5 +1,8 @@
-.carousel-item{
-    height: 700px;
+@media only screen and (min-width:668px){
+    .carosel-item{
+        max-height: 400px;
+        background-position: center center;
+    }
 }
 .row-2{
  text-align: center;
@@ -39,6 +42,11 @@
 .hp{
 margin-top: 15px;
 }
+
+.col-md-3 {
+    border-left: 1px solid black;
+}
+
 .lenovo{
 margin-top: 15px;    
 }
