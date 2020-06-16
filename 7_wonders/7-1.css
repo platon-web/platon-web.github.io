@@ -1,0 +1,50 @@
+.carousel-item{
+    height: 700px;
+}
+.row-2{
+ text-align: center;
+ background-color: greenyellow;
+}
+.ggg{
+    background-color: rosybrown;
+    text-align: center;
+}
+.row-3{
+    text-align: center;
+    background-color: khaki;
+}
+.row-4{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+.row-5{
+    text-align: center;
+    background-color:gold ;
+}
+.row-6{
+    text-align: center;
+    background-color: lightblue
+}
+.row-7{
+    text-align: center;
+    background-color: silver;
+}
+.pg{
+    margin-right: 250px;
+}
+.gp{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.hp{
+margin-top: 15px;
+}
+.lenovo{
+margin-top: 15px;    
+}
+footer{
+    border-left: 1px solid rgb(0, 0, 0);
+    background: rgb(230, 230, 230);
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+}
