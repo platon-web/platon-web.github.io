@@ -295,3 +295,22 @@ display: flex;
   .fa-instagram:hover{
       color: white;
   }
+  /* наверх */
+ 
+
+    .scroll-to-top{
+        position: fixed;
+    background: rgba(100,100,100,.4);
+    color: #fff;
+    bottom: 4%;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    right: 20px;
+    z-index: 999;
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+    width: 40px;
+    border-radius: 4px;
+    }
