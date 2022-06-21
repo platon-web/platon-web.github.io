@@ -111,11 +111,3 @@ nextBtn.addEventListener('click', moveForvard);
 prevBtn.addEventListener('click', moveBack);
 
 let timer = setInterval(moveForvard, 10000);//запускає moveForvard що 10 секунд
-
-
-
-
-
-
-
-
